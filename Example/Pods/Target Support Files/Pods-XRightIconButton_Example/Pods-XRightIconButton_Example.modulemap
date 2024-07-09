@@ -1,0 +1,6 @@
+framework module Pods_XRightIconButton_Example {
+  umbrella header "Pods-XRightIconButton_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module XRightIconButton {
+  umbrella header "XRightIconButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

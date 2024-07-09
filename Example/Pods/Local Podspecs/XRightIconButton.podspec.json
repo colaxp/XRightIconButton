@@ -1,0 +1,27 @@
+{
+  "name": "XRightIconButton",
+  "version": "0.1.0",
+  "summary": "A short description of XRightIconButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/colaxp/XRightIconButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "136134027@qq.com": "136134027@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/colaxp/XRightIconButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "XRightIconButton/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+      "~> 5.0.0"
+    ]
+  }
+}
