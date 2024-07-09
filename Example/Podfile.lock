@@ -4,7 +4,9 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - XRightIconButton (0.1.0)
+  - SnapKit (5.0.1)
+  - XRightIconButton (0.1.0):
+    - SnapKit (~> 5.0.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
@@ -13,6 +15,7 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - FBSnapshotTestCase
+    - SnapKit
 
 EXTERNAL SOURCES:
   XRightIconButton:
@@ -20,8 +23,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  XRightIconButton: 086a4cbae5e527a5eb6282e7ce4cac76c863da82
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  XRightIconButton: 9fbe0afbb2c5b85ffac27aec84b11fd9da6010b1
 
-PODFILE CHECKSUM: bd1d7e03e1be2acb651c3da17999b93961c1cf37
+PODFILE CHECKSUM: 0704e31b9664040a397866819a0806879f372922
 
 COCOAPODS: 1.14.2
